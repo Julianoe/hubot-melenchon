@@ -1,0 +1,33 @@
+{
+  "name": "hubot-melenchon",
+  "version": "1.0.0",
+  "description": "Hubot, be polite and support Mélenchon.",
+  "main": "index.coffee",
+  "author": {
+    "name": "Cerlon & Julianoe",
+    "email": "",
+    "url": "https://github.com/julianoe"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "melenchon",
+    "melenshack"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test",
+    "start": "coffee ./test/server.coffee"
+  },
+  "homepage": "https://github.com/julianoe/hubot-melenchon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianoe/hubot-melenchon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okize/hubot-melenchon/issues"
+  },
+  "dependencies": {
+    "coffee-script": "1.8.x"
+  }
+}
