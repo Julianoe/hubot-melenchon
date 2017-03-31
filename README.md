@@ -15,3 +15,5 @@ Add the **hubot-melenchon** to your `external-scripts.json` (you may need to cre
 ```
 ["hubot-melenchon"]
 ```
+
+This script has been written thought out and written by my friend [Cerlon](https://github.com/cerlon). It's our first commit to npm repos and first (of many ?) hubot scripts! 

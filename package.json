@@ -4,7 +4,7 @@
   "description": "Hubot, be polite and support Mélenchon.",
   "main": "index.coffee",
   "author": {
-    "name": "Cerlon & Julianoe",
+    "name": "Julianoe",
     "email": "",
     "url": "https://github.com/julianoe"
   },
